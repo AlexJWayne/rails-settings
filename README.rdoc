@@ -7,6 +7,20 @@ to hard code into your rails app.  You can store any kind of object.  Strings, n
 arrays, or any object.
 
 
+== Installation
+ 
+Install the +rails-settings+ gem
+
+  gem install rails-settings
+
+And include the gem in your apps config
+
+  config.gem 'rails-settings', :lib => 'settings'
+
+Or install as a plugin if you must.  But gems are cooler.
+
+  ./script/plugin install git://github.com/Squeegy/rails-settings.git
+
 == Setup
 
 You must create the table used by the Settings model.  Simply run this command:

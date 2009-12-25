@@ -20,11 +20,14 @@ easy.
   s.files = [
     "MIT-LICENSE",
      "README.rdoc",
+     "Rakefile",
+     "VERSION",
      "generators/settings_migration/USAGE",
      "generators/settings_migration/settings_migration_generator.rb",
      "generators/settings_migration/templates/migration.rb",
      "init.rb",
      "lib/settings.rb",
+     "rails-settings.gemspec",
      "test/settings_test.rb"
   ]
   s.homepage = %q{http://github.com/Squeegy/rails-settings}

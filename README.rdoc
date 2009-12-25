@@ -9,7 +9,7 @@ arrays, or any object.
 
 == Installation
  
-Install the +rails-settings+ gem
+Install the rails-settings gem
 
   gem install rails-settings
 

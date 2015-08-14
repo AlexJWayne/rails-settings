@@ -1,3 +1,11 @@
+-----
+
+*UNMAINTAINED*
+There is a complete rewrite of this gem maintained at:
+https://github.com/ledermann/rails-settings
+
+-----
+
 = Settings Plugin
 
 Settings is a plugin that makes managing a table of global key, value pairs easy.

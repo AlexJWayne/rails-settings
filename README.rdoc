@@ -1,8 +1,12 @@
 -----
 
-*UNMAINTAINED*
-There is a complete rewrite of this gem maintained at:
-https://github.com/ledermann/rails-settings
+= DEPRECATED
+
+This gem is no longer maintained. However, there is a complete rewrite of this gem maintained here:
+
+* https://github.com/ledermann/rails-settings
+
+_Old README below_
 
 -----
 
